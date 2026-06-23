@@ -23,6 +23,11 @@ Evolutionary biology seeks to understand how organisms and their biological mole
 - Used Biopython and Pandas for sequence analysis
 - Investigated evolutionary conservation patterns
 
+  Results
+  
+Insulin protein sequences from Human (Homo sapiens), Mouse (Mus musculus), Rat (Rattus norvegicus), Cow (Bos taurus), and Pig (Sus scrofa) were successfully retrieved from the NCBI Protein Database and analysed using Biopython and Pandas. The generated comparative data and visualizations highlighted the close evolutionary relationship among mammalian insulin proteins. The high degree of sequence conservation suggests that insulin has been subjected to strong selective pressure throughout mammalian evolution, resulting in the preservation of its critical physiological function
+
+
 ## Tools Used
 - Python
 - Biopython
