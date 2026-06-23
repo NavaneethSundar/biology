@@ -9,7 +9,9 @@ The identification of antigenic regions within protein is an important aspect in
 - Performed hydrophilicity analysis
 - Predicted potential B-cell epitopes
 - Visualized results using Matplotlib
-    Results
+
+Results
+  
 The protein sequence was successfully retrieved and analyzed. Hydrophilicity values were calculated for the entire sequence, and a hydrophilicity profile was generated.Several regions displayed increased hydrophilicity scores compared to surrounding residues. These regions are likely to be exposed on the protein surface and may therefore function as potential B-cell epitopes. The graphical representation clearly highlighted peaks corresponding to highly hydrophilic segments of the protein.
 
 
