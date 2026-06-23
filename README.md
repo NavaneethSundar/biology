@@ -8,8 +8,8 @@
 - Predicted potential B-cell epitopes
 - Visualized results using Matplotlib
 
-## Project 2: Comparative Analysis of Insulin Protein Sequences Across Species
-(evolutionaryanalysis.ipynb)
+## Project 2: Comparative Analysis of Insulin Protein Sequences Across Species       
+   (evolutionaryanalysis.ipynb)
 -Retrieved insulin protein sequences of Human,Mouse,Rat,Cow,Pig from NCBI and compare them to study evolutionary conservation
 - Used Biopython and Pandas for sequence analysis
 - Investigated evolutionary conservation patterns
