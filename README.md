@@ -1,5 +1,5 @@
 # biology
-# Computational Biology Mini Projects
+# Computational Biology Projects
 
 ## Project 1: Hydrophilicity-Based Epitope Prediction
 (epitopeprediction.ipynb)
