@@ -26,7 +26,8 @@ Evolutionary biology seeks to understand how organisms and their biological mole
 
 Results
   
-Insulin protein sequences from Human (Homo sapiens), Mouse (Mus musculus), Rat (Rattus norvegicus), Cow (Bos taurus), and Pig (Sus scrofa) were successfully retrieved from the NCBI Protein Database and analysed using Biopython and Pandas. The generated comparative data and visualizations highlighted the close evolutionary relationship among mammalian insulin proteins. The high degree of sequence conservation suggests that insulin has been subjected to strong selective pressure throughout mammalian evolution, resulting in the preservation of its critical physiological function
+Insulin protein sequences from Human (Homo sapiens), Mouse (Mus musculus), Rat (Rattus norvegicus), Cow (Bos taurus), and Pig (Sus scrofa) were successfully retrieved from the NCBI Protein Database and analysed using Biopython and Pandas. The generated comparative data and visualizations highlighted the close evolutionary relationship among mammalian insulin proteins. The high degree of sequence conservation suggests that insulin has been subjected to strong selective pressure throughout mammalian evolution, resulting in the preservation of its critical physiologicalfumction
+
 <img width="553" height="335" alt="Screenshot 2026-06-24 194908" src="https://github.com/user-attachments/assets/9c322ce3-52c8-4410-a1a6-8d2be90bc6e6" />
 
 
